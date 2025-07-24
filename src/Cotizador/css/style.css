@@ -175,9 +175,35 @@ h1 {
 .slider .progress {
   width: 31%;
   height: 18px;
-  background: linear-gradient(
-    rgba(255,223,0,1) 0%,
-     rgba(218,165,32,1) 40%,
-      rgba(184,134,11,1) 0%,
+  background: linear-gradient(90deg,
+    rgba(255, 223, 0, 1) 0%,
+     rgba(218, 165, 32, 1) 40%,
+      rgba(184, 134, 11, 1) 100%
   );
+  border-top-left-radius: 20px;
+  border-bottom-left-radius: 20px;
+  position: absolute;
+  left: 0;
+  top:0;
+}
+
+.slider .point {
+  width: 24px;
+  height: 24px;
+  background-color:rgb(184, 134, 11);
+  border-radius: 50%;
+  position: absolute;
+  top: -5px;
+  left: 29%;
+  border: 2px solid white;
+  transition: transform 0.15s ease;
+}
+
+.slider .point:hover {
+  transform: scale(1.15);
+  cursor:pointer;
+}
+
+.scale {
+  width: 100%;
 }

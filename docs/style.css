@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 body {
   font-family: sans-serif;
   background: #15084e;
@@ -23,3 +24,30 @@ a {
 a:hover {
   text-decoration: underline;
 }
+=======
+body {
+  font-family: sans-serif;
+  background: #15084e;
+  padding: 2rem;
+}
+h1 {
+  color: #f2f2f2;
+  text-align: center;
+}
+
+ul {
+  list-style: none;
+  padding-left: 0;
+}
+li {
+  text-align: center;
+  margin: 0.5rem 0;
+}
+a {
+  text-decoration: none;
+  color: #f2f2f2;;
+}
+a:hover {
+  text-decoration: underline;
+}
+>>>>>>> 4d62a5c9ea4ff51c8b9ae28e81550198db7b0609
