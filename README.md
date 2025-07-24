@@ -11,15 +11,24 @@ Aplicar los conceptos aprendidos en cursos, documentación y práctica diaria pa
 
 - Desarrollar fluidez en la escritura de código.
 - Mejorar la comprensión de tecnologías frontend y backend.
-- Prepararme para proyectos reales y certificaciones como AZ-204.
 
 ---
 
-## 🧩 Estructura del repositorio
+# Miniproyectos
 
-Cada miniproyecto tiene su propia carpeta con nombre descriptivo y contiene:
+Bienvenida/o a mi colección de miniproyectos desarrollados con HTML, CSS y JS.  
+Puedes verlos en acción aquí 👇
 
-- `index.html` / `app.js` / `style.css`
-- README específico (en algunos casos)
-- Screenshots o demos si aplica
+## 🚀 Proyectos publicados en GitHub Pages
 
+- [✅ App Tareas](https://aalanissn.github.io/Miniproyectos/app_tareas/)
+- [🧮 Calculadora](https://aalanissn.github.io/Miniproyectos/calculadora/)
+- [💰 Cotizador](https://aalanissn.github.io/Miniproyectos/cotizador/)
+- [🌓 Formulario Light/Dark](https://aalanissn.github.io/Miniproyectos/formulario_light_dark/)
+- [📱 Menú de Navegación](https://aalanissn.github.io/Miniproyectos/menuNavegacion/)
+- [💳 Tarjeta](https://aalanissn.github.io/Miniproyectos/tarjeta/)
+
+---
+
+Puedes ver el menú general aquí:  
+👉 [https://aalanissn.github.io/Miniproyectos/](https://aalanissn.github.io/Miniproyectos/)
