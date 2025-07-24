@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Formulario Contacto Interruptor Noche/Día</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap"
+      rel="stylesheet"
+    />
+
+    <link rel="stylesheet" href="./css/styles.css" />
+  </head>
+  <body>
+    <div class="contenedor">
+      <div class="fondo-redondeado"></div>
+      <div class="envoltura-formulario">
+        <div class="envoltura-formulario-izquierda">
+          <div class="sol-luna"></div>
+
+          <button type="button">
+            <span class="fondo"></span>
+            <span class="dia">Día</span>
+            <span class="noche">Noche</span>
+          </button>
+        </div>
+        <div class="envoltura-formulario-derecha">
+          <h1>Contactar</h1>
+          <input type="text" class="campo" placeholder="Ingresa tu nombre" />
+
+          <input type="email" class="campo" placeholder="Ingresa tu correo" />
+
+          <textarea class="campo msg" placeholder="Escribe el mensaje"></textarea>
+
+          <button type="button">Enviar mensaje</button>
+        </div>
+      </div>
+    </div>
+
+    <script src="./js/main.js"></script>
+  </body>
+</html>
