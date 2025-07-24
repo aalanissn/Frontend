@@ -1,53 +1,58 @@
-<<<<<<< HEAD
 body {
-  font-family: sans-serif;
-  background: #15084e;
-  padding: 2rem;
+  font-family: 'Segoe UI', sans-serif;
+  margin: 0;
+  padding: 0;
+  background: #f4f4f4;
+  color: #333;
 }
-h1 {
-  color: #f2f2f2;
+
+header {
+  text-align: center;
+  padding: 2rem;
+  background: #333;
+  color: white;
+}
+
+.grid-container {
+  display: grid;
+  gap: 1.5rem;
+  padding: 2rem;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+}
+
+.card {
+  background: white;
+  border-radius: 10px;
+  overflow: hidden;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+  transition: transform 0.2s;
   text-align: center;
 }
 
-ul {
-  list-style: none;
-  padding-left: 0;
-}
-li {
-  text-align: center;
-  margin: 0.5rem 0;
-}
-a {
-  text-decoration: none;
-  color: #f2f2f2;;
-}
-a:hover {
-  text-decoration: underline;
-}
-=======
-body {
-  font-family: sans-serif;
-  background: #15084e;
-  padding: 2rem;
-}
-h1 {
-  color: #f2f2f2;
-  text-align: center;
+.card:hover {
+  transform: translateY(-5px);
 }
 
-ul {
-  list-style: none;
-  padding-left: 0;
+.card img {
+  width: 100%;
+  height: 150px;
+  object-fit: cover;
 }
-li {
-  text-align: center;
-  margin: 0.5rem 0;
+
+.card h2 {
+  margin: 1rem 0 0.5rem;
 }
-a {
+
+.card a {
+  display: inline-block;
+  margin: 1rem;
+  padding: 0.5rem 1rem;
+  background: #007acc;
+  color: white;
+  border-radius: 5px;
   text-decoration: none;
-  color: #f2f2f2;;
 }
-a:hover {
-  text-decoration: underline;
+
+.card a:hover {
+  background: #005fa3;
 }
->>>>>>> 4d62a5c9ea4ff51c8b9ae28e81550198db7b0609
