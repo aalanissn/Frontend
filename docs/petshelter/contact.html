@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Welcome to the pet shelter, looking for love on 4 paws">    
+    <meta name="keywords" content="pets, animals, Shelter, pet adoption">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href="./css/style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css">
+    <link rel="stylesheet" media="screen and (max-width:768px)" href="./css/mobile.css">
+    <title>Pet Shelter | Contacto</title>
+</head>
+<body>
+    <header>
+        <nav id="navbar">
+            <div class="container">
+                <h1 class="logo"><a href="index.html">Pet Shelter</a></h1>
+                <ul>
+                    <li><a href="index.html">Home</a></li>
+                    <li><a href="about.html">About</a></li>
+                    <li><a class="current" href="contact.html">Contact</a></li>
+                  </ul>
+            </div>
+        </nav>
+
+<!-- Contact -->
+
+<section id="contact-form" class="py-3">
+    <div class="container">
+        <h1 class="l-heading">
+            <span class="text-primary">Contact us</span>
+        </h1>
+        <p>Please diligencie the form</p>
+
+            <form action="procesar.php">
+                <div class="form-group">
+                    <label for="nombre">Nombre:</label>
+                    <input type="text" name="nombre" id="nombre" placeholder="Name">
+                </div>
+
+                <div class="form-group">
+                    <label for="email">email:</label>
+                    <input type="email" name="email" id="email" placeholder="Email">
+                </div>
+
+                <div class="form-group">
+                    <label for="email">email:</label>
+                    <textarea name="mensaje" id="mensaje"></textarea>
+                </div>
+
+                <button class="btn">Contact</button>
+            </form>
+    </div>
+</section>
+
+<section id="contact-info" class="bg-dark">
+    <div class="container">
+        <div class="box">
+        <i class="fa-solid fa-house-chimney-user fa-3x"></i>
+        <h3>Adress</h3>
+        <p>P.Sherman Wallabee Street, US</p>
+        </div>
+
+        <div class="box">
+            <i class="fas fa-phone fa-3x"></i>
+            <h3>Phone</h3>
+            <p>+52 88900077</p>
+            </div>
+
+            <div class="box">
+                <i class="fas fa-envelope fa-3x"></i>
+                <h3>Email</h3>
+                <p>pshelter@company.com</p>
+                </div>
+    
+
+    </div>
+</section>
+
+<footer id="main-footer">
+    <p>&copy;  2025 Pet Shelter. Developed by Alejandra Alanís, Full Stack Developer. All rights reserved.</p>
+
+</footer>
+
+</body>
+</html>
