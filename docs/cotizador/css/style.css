@@ -5,6 +5,7 @@
   --color-accent: goldenrod;
   --color-acecent-dark: #b1881c;
   --color-line-light: rgb(231, 231, 231);
+  --color-cards:rgb(255, 166, 166);
   --border-radius: 20px;
   --padding: 16px;
   --font-main: "Open Sans", sans-serif;
@@ -164,7 +165,6 @@ h1 {
 
 .slider .bar {
   width: 100%;
-  position: relative;
   margin-bottom: 16px;
   height: 16px;
   background-color: rgb(248, 248, 248);
@@ -207,3 +207,131 @@ h1 {
 .scale {
   width: 100%;
 }
+
+.slider .scale ul{
+  list-style: none;
+  display: flex;
+  justify-content: space-between;
+  padding: 0;
+  color: var(--color-cards);
+}
+
+
+.card-wrapper{
+  display: flex;
+}
+
+.card{
+  background-color:var(--background-color);
+  border-radius: 10px;
+  margin: 16px;
+  padding: 16px 32px;
+  box-shadow: 0px 3px 11px 1px rgb(0, 0, 0, 0.4);
+  text-align: center;
+  font-weight: bold;
+  transition: tranfrom 0.15s ease;
+  color: var(--color-text-dark);
+  position: relative;
+}
+
+.card:hover{
+  transform: translateY(-20px) ;
+  cursor: pointer;
+}
+
+.card .top-section{
+  padding: 8px;
+  text-transform: uppercase;
+}
+
+.car .top-section p{
+  margin: 4px 0;
+}
+
+.card .price{
+  font-size:42px;
+  color: var(--color-text-dark);
+}
+
+.card hr{
+  width: 50%;
+  border: 1px solid rgb(210, 210, 210);
+  border-radius: 2px;
+}
+
+.card button{
+  border: none;
+  color: var(--color-white);
+  background-color: var(--color-acecent-dark);
+  padding: var(--padding);
+  border-radius: 10px;
+  transition: tranform 0.5d ease;
+  font-weight: bold;
+  margin: 8px 0;
+}
+
+.card button:hover{
+  cursor: pointer;
+  transform: scale(1.05);
+}
+
+.card .save-header{
+  color: var(--color-white);
+    background: linear-gradient(90deg,
+    rgba(255, 223, 0, 1) 0%,
+     rgba(218, 165, 32, 1) 40%,
+      rgba(184, 134, 11, 1) 100%
+    );
+    position: absolute;
+    top: -24px;
+    left: 0;
+    width: 100%;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+  }
+
+  /* Responsive - Media Queries */
+
+  @media only screen and (max-width: 750px){
+    .card{
+      width: 100%;
+    }
+
+    .box-card{
+      width: 80%;
+    }
+
+    .card-wrapper{
+      flex-wrap: wrap-reverse;
+    }
+
+  }
+
+ @media only screen and (max-width: 600px){
+
+    body{
+      padding: var(--padding);
+    }
+
+    h1{
+      margin: 0 0 16px 0;
+    }
+
+    .container{
+      padding: 0 16px;
+    }
+
+    .box-card{
+      width: 80%;
+    }
+
+    .toggle-wrapper{
+      width: 90%;
+      justify-content: space-around;
+    }
+
+    .tabs p{
+      font-size: 0.7rem;
+    }
+
+ }
