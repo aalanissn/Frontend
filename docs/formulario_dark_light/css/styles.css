@@ -221,3 +221,68 @@ html {
   background-color: #bbb;
   color: #262431;
 }
+
+/* MediaQuery */
+
+@media (max-width: 1024px) {
+  .envoltura-formulario {
+    width: 90%;
+    height: auto;
+    flex-direction: column;
+  }
+
+  .envoltura-formulario-izquierda,
+  .envoltura-formulario-derecha {
+    width: 100%;
+    padding: 4rem 2rem;
+  }
+
+  .campo,
+  .envoltura-formulario-derecha button {
+    width: 100%;
+  }
+  .fondo-redondeado {
+    width: 8rem;
+    height: 80rem;
+    top: -60%;
+  }
+}
+
+@media (max-width: 600px) {
+  .fondo-redondeado {
+    width: 50rem;
+    height: 50rem;
+    top: -40%;
+  }
+
+  .envontura-formulario {
+    width: 95%;
+    height: auto;
+    flex-direction: column;
+  }
+
+  .envoltura-formulario-izquierda, .envoltura-formulario-derecha{
+    width: 100%;
+    padding: 3rem 2rem;
+  
+  }
+
+  .sol-luna {
+    width: 8rem;
+    height: 8rem;
+  }
+
+  .sol-luna::after {
+    width: 6rem;
+    height: 6rem;
+  }
+
+  .envoltura-formulario-derecha h1 {
+    font-size: 3rem;
+    text-align: center;
+  }
+
+  .campo {
+    font-size: 1.2rem;
+  }
+}
