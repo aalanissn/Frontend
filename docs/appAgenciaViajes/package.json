@@ -1,0 +1,16 @@
+{
+  "name": "appagenciaviajes",
+  "version": "1.0.0",
+  "description": "Aplicaciones de Lugares",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass --watch scss:dist/css"
+  },
+  "author": "Alejandra Alanís",
+  "license": "ISC",
+  "dependencies": {
+    "sass": "^1.89.2"
+  },
+  "devDependencies": {},
+  "keywords": []
+}
