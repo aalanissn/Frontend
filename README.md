@@ -21,15 +21,15 @@ Puedes verlos en acción aquí 👇
 
 | Proyecto | Descripción | Enlace |
 |----------|-------------|--------|
-| ✅ App Tareas | Lista de tareas interactiva | [Ver proyecto](https://aalanissn.github.io/Miniproyectos/app_tareas/) |
-| 🧮 Calculadora | Calculadora básica con JS | [Ver proyecto](https://aalanissn.github.io/Miniproyectos/calculadora/) |
-| 💰 Cotizador | Simulador de cotización | [Ver proyecto](https://aalanissn.github.io/Miniproyectos/cotizador/) |
-| 🌓 Formulario Light/Dark | Cambio de tema dinámico | [Ver proyecto](https://aalanissn.github.io/Miniproyectos/formulario_dark_light/) |
-| 📱 Menú de Navegación | Menú responsive animado | [Ver proyecto](https://aalanissn.github.io/Miniproyectos/menuNavegación/) |
-| 💳 Tarjeta | Vista previa de tarjeta bancaria | [Ver proyecto](https://aalanissn.github.io/Miniproyectos/tarjeta/) |
-| 🐩 PetShelter | Página de adopción de mascotas | [Ver proyecto](https://aalanissn.github.io/Miniproyectos/petshelter/) |
-| 🛩️ Agencia Viajes | Página de Lugares Turísticos | [Ver proyecto](https://aalanissn.github.io/Miniproyectos/appAgenciaViajes/dist/index.html) |
-| 🙍‍♀️ Slider de Testimonios| Página Testimonios | [Ver proyecto](https://aalanissn.github.io/Miniproyectos/slider_testimonios/index.html) |
+| ✅ App Tareas | Lista de tareas interactiva | [Ver proyecto](https://aalanissn.github.io/Fronted/app_tareas/) |
+| 🧮 Calculadora | Calculadora básica con JS | [Ver proyecto](https://aalanissn.github.io/Fronted/calculadora/) |
+| 💰 Cotizador | Simulador de cotización | [Ver proyecto](https://aalanissn.github.io/Fronted/cotizador/) |
+| 🌓 Formulario Light/Dark | Cambio de tema dinámico | [Ver proyecto](https://aalanissn.github.io/Fronted/formulario_dark_light/) |
+| 📱 Menú de Navegación | Menú responsive animado | [Ver proyecto](https://aalanissn.github.io/Fronted/menuNavegación/) |
+| 💳 Tarjeta | Vista previa de tarjeta bancaria | [Ver proyecto](https://aalanissn.github.io/Fronted/tarjeta/) |
+| 🐩 PetShelter | Página de adopción de mascotas | [Ver proyecto](https://aalanissn.github.io/Fronted/petshelter/) |
+| 🛩️ Agencia Viajes | Página de Lugares Turísticos | [Ver proyecto](https://aalanissn.github.io/Fronted/appAgenciaViajes/dist/index.html) |
+| 🙍‍♀️ Slider de Testimonios| Página Testimonios | [Ver proyecto](https://aalanissn.github.io/Fronted/slider_testimonios/index.html) |
 
 ---
 
@@ -37,7 +37,7 @@ Puedes verlos en acción aquí 👇
 
 Puedes ver el menú principal con enlaces a todos los proyectos en esta página:
 
-👉 [https://aalanissn.github.io/Miniproyectos/](https://aalanissn.github.io/Miniproyectos/)
+👉 [https://aalanissn.github.io/Miniproyectos/](https://aalanissn.github.io/Fronted/)
 
 ---
 
