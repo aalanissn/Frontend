@@ -43,7 +43,7 @@ Puedes ver el menú principal con enlaces a todos los proyectos en esta página:
 
 ### 📌 Nota
 
-Este repositorio está en constante evolución conforme avanzo en mi aprendizaje.
+Este repositorio está en constante evolución.
 
 ---
 
