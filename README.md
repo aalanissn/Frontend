@@ -1,4 +1,4 @@
-# 🛠️ Miniproyectos de Desarrollo Web
+# 🛠️Desarrollo Web Frontend
 
 ¡Bienvenid@ a mi colección de miniproyectos! 👩‍💻✨  
 Este repositorio contiene ejercicios prácticos y pequeños proyectos que desarrollo mientras aprendo y fortalezco mis habilidades en programación web y backend, principalmente con **JavaScript**, **Node.js**, **HTML**, **CSS** y otras tecnologías del stack moderno.
