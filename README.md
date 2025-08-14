@@ -29,7 +29,7 @@ Puedes verlos en acción aquí 👇
 | 💳 Tarjeta | Vista previa de tarjeta bancaria | [Ver proyecto](https://aalanissn.github.io/Miniproyectos/tarjeta/) |
 | 🐩 PetShelter | Página de adopción de mascotas | [Ver proyecto](https://aalanissn.github.io/Miniproyectos/petshelter/) |
 | 🛩️ Agencia Viajes | Página de Lugares Turísticos | [Ver proyecto](https://aalanissn.github.io/Miniproyectos/appAgenciaViajes/dist/index.html) |
-| 🙍‍♀️ | Página Testimonios | [Ver proyecto](https://aalanissn.github.io/Miniproyectos/slider_testimonios/index.html) |
+| 🙍‍♀️ Slider de Testimonios| Página Testimonios | [Ver proyecto](https://aalanissn.github.io/Miniproyectos/slider_testimonios/index.html) |
 
 ---
 
