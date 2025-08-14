@@ -37,7 +37,7 @@ Puedes verlos en acción aquí 👇
 
 Puedes ver el menú principal con enlaces a todos los proyectos en esta página:
 
-👉 [https://aalanissn.github.io/Miniproyectos/](https://aalanissn.github.io/Fronted/)
+👉 [https://aalanissn.github.io/Frontend/](https://aalanissn.github.io/Fronted/)
 
 ---
 
