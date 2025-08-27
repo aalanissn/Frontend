@@ -21,15 +21,15 @@ Puedes verlos en acción aquí 👇
 
 | Proyecto | Descripción | Enlace |
 |----------|-------------|--------|
-| ✅ App Tareas | Lista de tareas interactiva | [Ver proyecto](https://aalanissn.github.io/frontend/app_tareas/) |
-| 🧮 Calculadora | Calculadora básica con JS | [Ver proyecto](https://aalanissn.github.io/frontend/calculadora/) |
-| 💰 Cotizador | Simulador de cotización | [Ver proyecto](https://aalanissn.github.io/frontend/cotizador/) |
-| 🌓 Formulario Light/Dark | Cambio de tema dinámico | [Ver proyecto](https://aalanissn.github.io/frontend/formulario_dark_light/) |
-| 📱 Menú de Navegación | Menú responsive animado | [Ver proyecto](https://aalanissn.github.io/frontend/menuNavegación/) |
-| 💳 Tarjeta | Vista previa de tarjeta bancaria | [Ver proyecto](https://aalanissn.github.io/frontend/tarjeta/) |
-| 🐩 PetShelter | Página de adopción de mascotas | [Ver proyecto](https://aalanissn.github.io/frontend/petshelter/) |
-| 🛩️ Agencia de Viajes | Agencia de Viajes | [Ver proyecto](https://aalanissn.github.io/frontend/petshelter/) |
-| 📱 Agencia de Negocios | Agencia de Negocios | [Ver proyecto](https://aalanissn.github.io/frontend/petshelter/) |
+| ✅ App Tareas | Lista de tareas interactiva | [Ver proyecto](https://aalanissn.github.io/Frontend/app_tareas/) |
+| 🧮 Calculadora | Calculadora básica con JS | [Ver proyecto](https://aalanissn.github.io/Frontend/calculadora/) |
+| 💰 Cotizador | Simulador de cotización | [Ver proyecto](https://aalanissn.github.io/Frontend/cotizador/) |
+| 🌓 Formulario Light/Dark | Cambio de tema dinámico | [Ver proyecto](https://aalanissn.github.io/Frontend/formulario_dark_light/) |
+| 📱 Menú de Navegación | Menú responsive animado | [Ver proyecto](https://aalanissn.github.io/Frontend/menuNavegación/) |
+| 💳 Tarjeta | Vista previa de tarjeta bancaria | [Ver proyecto](https://aalanissn.github.io/Frontend/tarjeta/) |
+| 🐩 PetShelter | Página de adopción de mascotas | [Ver proyecto](https://aalanissn.github.io/Frontend/petshelter/) |
+| 🛩️ Agencia de Viajes | Agencia de Viajes | [Ver proyecto](https://aalanissn.github.io/Frontend/petshelter/) |
+| 📱 Agencia de Negocios | Agencia de Negocios | [Ver proyecto](https://aalanissn.github.io/Frontend/petshelter/) |
 
 ---
 
