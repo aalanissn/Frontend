@@ -28,8 +28,8 @@ Puedes verlos en acción aquí 👇
 | 📱 Menú de Navegación | Menú responsive animado | [Ver proyecto](https://aalanissn.github.io/frontend/menuNavegación/) |
 | 💳 Tarjeta | Vista previa de tarjeta bancaria | [Ver proyecto](https://aalanissn.github.io/frontend/tarjeta/) |
 | 🐩 PetShelter | Página de adopción de mascotas | [Ver proyecto](https://aalanissn.github.io/frontend/petshelter/) |
-| 🛩️ | Agencia de Viajes | [Ver proyecto](https://aalanissn.github.io/frontend/petshelter/) |
-| 📱 | Agencia de Negocios | [Ver proyecto](https://aalanissn.github.io/frontend/petshelter/) |
+| 🛩️ Agencia de Viajes | Agencia de Viajes | [Ver proyecto](https://aalanissn.github.io/frontend/petshelter/) |
+| 📱 Agencia de Negocios | Agencia de Negocios | [Ver proyecto](https://aalanissn.github.io/frontend/petshelter/) |
 
 ---
 
@@ -37,7 +37,7 @@ Puedes verlos en acción aquí 👇
 
 Puedes ver el menú principal con enlaces a todos los proyectos en esta página:
 
-👉 [https://aalanissn.github.io/Miniproyectos/](https://aalanissn.github.io/Frontend/)
+👉 [https://aalanissn.github.io/Frontend/](https://aalanissn.github.io/Frontend/)
 
 ---
 
