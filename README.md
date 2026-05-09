@@ -38,7 +38,7 @@ Puedes verlos en acción aquí 👇
 
 Puedes acceder al menú principal con enlaces a todos los proyectos aquí:
 
-👉 [Abrir portafolio principal](https://aalanissn.github.io/Frontend/index.hml/)
+👉 [Abrir portafolio principal](https://aalanissn.github.io/Frontend/index.html/)
 
 ---
 
